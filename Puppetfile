@@ -6,6 +6,8 @@ mod 'puppetlabs-apt', '7.5.0'
 mod 'puppetlabs-stdlib', '6.4.0'
 mod 'elastic-elastic_stack', '7.0.0'
 mod 'elastic-logstash', '6.0.2'
+mod 'elastic-elasticsearch', '6.4.0'
 mod 'puppetlabs-java', '2.4.0'
+mod 'richardc-datacat', '0.6.2'
 mod 'mdubya-elk',
   :git => 'https://github.com/mitchdubdub/mdubya-elk.git'
