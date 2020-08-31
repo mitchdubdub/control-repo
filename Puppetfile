@@ -7,6 +7,7 @@ mod 'puppetlabs-stdlib', '6.4.0'
 mod 'elastic-elastic_stack', '7.0.0'
 mod 'elastic-logstash', '6.0.2'
 mod 'elastic-elasticsearch', '6.4.0'
+mod 'elastic-kibana', '6.3.1'
 mod 'puppetlabs-java', '2.4.0'
 mod 'richardc-datacat', '0.6.2'
 mod 'mdubya-elk',
