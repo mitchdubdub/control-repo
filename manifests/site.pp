@@ -1,6 +1,6 @@
 node "puppet" {
   include role::master
 }
-node "puppet-01" {
+node "puppet-client01" {
   include role::elk
 }
